@@ -2,8 +2,4 @@ this is a simple algorithm that sharpens images by shrinking transitions.
 
 Until now it is just a very early version and it only works on certain images such as ones with large same colored areas. Also the image must not be _too_ blurred. No magic here.
 
-example images:
-
-![](https://github.com/inosms/shrinksharpen/blob/master/example.png)
-
-![](https://github.com/inosms/shrinksharpen/blob/master/example2.png)
+example images are example.png and example2.png
