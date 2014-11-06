@@ -1,0 +1,9 @@
+this is a simple algorithm that sharpens images by shrinking transitions.
+
+Until now it is just a very early version and it only works on certain images such as ones with large same colored areas. Also the image must not be _too_ blurred. This is no magical algorithm...
+
+example images:
+
+<img src="example.png">
+
+<img src="example2.png">
